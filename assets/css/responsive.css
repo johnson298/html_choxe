@@ -1,0 +1,31 @@
+@media (max-width: 556px) {
+    *{}
+    .row-grid-row {
+        display: block;
+    }
+
+    .row-grid-row .box-new {
+        margin-bottom: 15px;
+    }
+    .list-pop .type img {
+        max-width: 70px;
+    }
+
+    .list-pop .type {
+        height: 95px;
+    }
+    .pr-info .in{
+        width: 100%;
+    }
+    .pr-item .img {
+        height: 130px;
+    }
+    .pr-content {
+        padding: 10px;
+    }
+
+    .pr-content h5 a {
+        font-size: 14px;
+    }
+
+}
